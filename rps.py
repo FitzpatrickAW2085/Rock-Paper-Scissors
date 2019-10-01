@@ -1,5 +1,6 @@
 # Alan Fitzpatrick
 # Rock, Paper, Scissors
+# added a comment
 # variables
 import random
 
